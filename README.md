@@ -57,12 +57,12 @@ An intelligent transport optimization project focused on solving real-world rout
 ---
 
 🔹 **Spendr**  
-A modern expense tracking application built to promote smarter financial habits through **data-driven insights**. Spendr enables users to track transactions, visualize spending patterns, and make informed budgeting decisions through an intuitive dashboard.
+A modern expense tracking application built to promote smarter financial habits through data-driven insights. Spendr enables users to seamlessly track transactions, visualize spending patterns, and make informed budgeting decisions through an intuitive and user-friendly dashboard. The platform also integrates three distinct regression models to predict monthly expenses, trained on real student expenditure data that has been carefully collected and processed. By combining practical tracking tools with predictive analytics, Spendr empowers users to anticipate future spending, optimize their budgets, and develop stronger financial discipline.
 
 - ✅ Interactive analytics for better financial awareness  
 - ✅ Simple yet powerful user experience  
 - ✅ Encourages disciplined spending through visual insights  
-- 🔗 **Repo:** https://github.com/fatimmaameer/Spendr/tree/main 
+- 🔗 **Repo:** https://github.com/HarisFarooq23/Spendr-
 - 🌐 **Live:** https://spender.streamlit.app/
 
 ---
