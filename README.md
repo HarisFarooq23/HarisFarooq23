@@ -5,18 +5,18 @@
 
 <!-- Typewriter -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student+%40+GIKI;Machine+Learning+Enthusiast;Building+Industry-Level+AI+Projects;Future+AI+Engineer;Turning+Ideas+Into+Real-World+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Pursuing+Artificial+Intelligence+@+%40+GIKI;Machine+Learning+Enthusiast;Building+Industry-Level+AI+Projects;Turning+Ideas+Into+Real-World+Systems" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Artificial Intelligence Sophomore @ **GIKI**  
+⚡ Artificial Intelligence Sophomore @ **GIKI**  
 💡 Passionate about **Machine Learning, Data Science, and Intelligent Systems**  
 🧠 Love transforming complex problems into scalable tech solutions  
 🌍 Aspiring to drive **AI integration in Pakistan’s emerging industries**  
-⚡ Always building, always learning  
+
 
 ---
 
