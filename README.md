@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" />
 </p>
 
-### ⚙️ Technologies
+### ⚙️ Tools & Technologies
 <p align="center">
 <img src="https://skillicons.dev/icons?i=firebase,postgres,git,github,vscode" />
 </p>
