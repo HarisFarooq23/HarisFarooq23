@@ -17,7 +17,6 @@
 🧠 Love transforming complex problems into scalable tech solutions  
 🌍 Aspiring to drive **AI integration in Pakistan’s emerging industries**  
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -34,6 +33,39 @@
 
 ---
 
+## 🚀 Featured Projects
+
+🔹 **GIKI Calendar**  
+A centralized, student-focused platform designed to streamline campus life by consolidating **academic schedules, society events, deadlines, and important announcements** into one intuitive interface. Built with usability in mind, the platform reduces information fragmentation and helps students plan proactively.
+
+- ✅ Eliminates scattered event communication across multiple channels  
+- ✅ Clean, responsive UI built for fast navigation  
+- ✅ Real-time accessibility for students anywhere  
+- 🔗 **Repo:** https://github.com/yourusername/giki-calendar  
+- 🌐 **Live:** https://your-giki-calendar-link.com  
+
+---
+
+🔹 **Transit Automation System**  
+An intelligent transport optimization project focused on solving real-world routing challenges using **Dijkstra’s Algorithm**. The system computes the shortest and most efficient paths across a network, demonstrating strong foundations in **data structures, graph theory, and algorithmic problem solving**.
+
+- ✅ Implements graph-based routing for optimal path calculation  
+- ✅ Designed with scalability for larger transport networks  
+- ✅ Emphasizes computational efficiency and accuracy  
+- 🔗 **Repo:** https://github.com/yourusername/transit-automation  
+
+---
+
+🔹 **Spendr**  
+A modern expense tracking application built to promote smarter financial habits through **data-driven insights**. Spendr enables users to track transactions, visualize spending patterns, and make informed budgeting decisions through an intuitive dashboard.
+
+- ✅ Interactive analytics for better financial awareness  
+- ✅ Simple yet powerful user experience  
+- ✅ Encourages disciplined spending through visual insights  
+- 🔗 **Repo:** https://github.com/yourusername/spendr  
+- 🌐 **Live:** https://your-spendr-link.com  
+
+---
 
 ## 🌐 Connect With Me
 
@@ -62,4 +94,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
-
