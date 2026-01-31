@@ -70,7 +70,7 @@ A modern expense tracking application built to promote smarter financial habits 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.topcoder.com/members/75290">
+<a href="https://www.linkedin.com/in/harisfarooq23/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 </p>
