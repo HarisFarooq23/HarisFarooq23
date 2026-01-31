@@ -1,5 +1,15 @@
 <!-- Animated Banner -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&text=Haris%20Farooq&fontSize=60&fontAlignY=50&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Building%20Scalable%20Systems&descAlignY=70&animation=fadeIn" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Haris%20Farooq&fontSize=65&color=0:0f2027,50:2c5364,100:36BCF7&stroke=ffffff&animation=twinkling" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f4037,100:99f2c8&height=180&text=Haris%20Farooq&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Haris%20Farooq&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
