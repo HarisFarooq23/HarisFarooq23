@@ -1,12 +1,17 @@
 <!-- Animated Banner -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&text=Haris%20Farooq&fontSize=60&fontAlignY=50&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Building%20Scalable%20Systems&descAlignY=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Haris%20Farooq&fontSize=70&color=0:000428,50:004e92,100:36BCF7&stroke=ffffff&strokeWidth=2&animation=twinkling&fontAlignY=45&desc=Artificial%20Intelligence%20Engineer%20%7C%20Machine%20Learning%20%7C%20Building%20Real-World%20Systems&descAlignY=65&descSize=18" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Haris%20Farooq&fontSize=72&color=0:0f2027,50:203a43,100:2c5364&stroke=36BCF7&strokeWidth=3&animation=fadeIn&fontColor=ffffff&fontAlignY=45&desc=AI%20%7C%20ML%20%7C%20Intelligent%20Systems&descAlignY=66&descSize=20" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Haris%20Farooq&fontSize=68&color=0:141E30,100:243B55&stroke=00c6ff&strokeWidth=2&animation=fadeIn&fontAlignY=45&desc=Designing%20Intelligent%20Systems%20for%20Real-World%20Impact&descAlignY=65&descSize=18" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Haris%20Farooq&fontSize=65&color=0:0f2027,50:2c5364,100:36BCF7&stroke=ffffff&animation=twinkling" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f4037,100:99f2c8&height=180&text=Haris%20Farooq&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
