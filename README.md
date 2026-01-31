@@ -41,8 +41,8 @@ A centralized, student-focused platform designed to streamline campus life by co
 - ✅ Eliminates scattered event communication across multiple channels  
 - ✅ Clean, responsive UI built for fast navigation  
 - ✅ Real-time accessibility for students anywhere  
-- 🔗 **Repo:** https://github.com/yourusername/giki-calendar  
-- 🌐 **Live:** https://your-giki-calendar-link.com  
+- 🔗 **Repo:** https://github.com/HarisFarooq23/calendarWebapp
+- 🌐 **Live:** https://giki-calendar.vercel.app/
 
 ---
 
@@ -52,7 +52,7 @@ An intelligent transport optimization project focused on solving real-world rout
 - ✅ Implements graph-based routing for optimal path calculation  
 - ✅ Designed with scalability for larger transport networks  
 - ✅ Emphasizes computational efficiency and accuracy  
-- 🔗 **Repo:** https://github.com/yourusername/transit-automation  
+- 🔗 **Repo:** https://github.com/HarisFarooq23/GIKI-transit-automation-system/tree/main
 
 ---
 
@@ -62,8 +62,8 @@ A modern expense tracking application built to promote smarter financial habits 
 - ✅ Interactive analytics for better financial awareness  
 - ✅ Simple yet powerful user experience  
 - ✅ Encourages disciplined spending through visual insights  
-- 🔗 **Repo:** https://github.com/yourusername/spendr  
-- 🌐 **Live:** https://your-spendr-link.com  
+- 🔗 **Repo:** https://github.com/fatimmaameer/Spendr/tree/main 
+- 🌐 **Live:** https://spender.streamlit.app/
 
 ---
 
