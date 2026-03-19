@@ -10,12 +10,7 @@
 
 ---
 
-## 🚀 About Me
-
-⚡ Artificial Intelligence Sophomore @ **GIKI**  
-💡 Passionate about **Machine Learning, Data Science, and Intelligent Systems**  
-🧠 Love transforming complex problems into scalable tech solutions  
-🌍 Aspiring to drive **AI integration in Pakistan’s emerging industries**  
+## 🚀Artificial Intelligence Sophomore @ **GIKI**  
 
 ---
 
