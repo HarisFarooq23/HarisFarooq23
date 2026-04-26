@@ -35,16 +35,7 @@
 
 ## 🚀 Featured Projects
 
-🔹 **GIKI Calendar**  
-A centralized, student-focused platform designed to streamline campus life by consolidating **academic schedules, society events, deadlines, and important announcements** into one intuitive interface. Built with usability in mind, the platform reduces information fragmentation and helps students plan proactively.
 
-- ✅ Eliminates scattered event communication across multiple channels  
-- ✅ Clean, responsive UI built for fast navigation  
-- ✅ Real-time accessibility for students anywhere  
-- 🔗 **Repo:** https://github.com/HarisFarooq23/calendarWebapp
-- 🌐 **Live:** https://giki-calendar.vercel.app/
-
----
 
 🔹 **Transit Automation System**  
 An intelligent transport optimization project focused on solving real-world routing challenges using **Dijkstra’s Algorithm**. The system computes the shortest and most efficient paths across a network, demonstrating strong foundations in **data structures, graph theory, and algorithmic problem solving**.
