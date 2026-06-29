@@ -14,13 +14,8 @@
 
 
 
-🔹 **Transit Automation System**  
-An intelligent transport optimization project focused on solving real-world routing challenges using **Dijkstra’s Algorithm**. The system computes the shortest and most efficient paths across a network, demonstrating strong foundations in **data structures, graph theory, and algorithmic problem solving**.
+🔹 **[Portfolio Website](https://github.com/HarisFarooq23/Portfolio):**  - also Live @ https://harisfarooq.vercel.app/  
 
-- Implements graph-based routing for optimal path calculation  
-- Designed with scalability for larger transport networks  
-- Emphasizes computational efficiency and accuracy  
-- **Repo:** https://github.com/HarisFarooq23/GIKI-transit-automation-system/tree/main
 
 ---
 
