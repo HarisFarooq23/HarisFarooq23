@@ -14,7 +14,7 @@
 
 
 
-🔹 **[Portfolio](https://github.com/HarisFarooq23/Portfolio):**  - also Live @ https://harisfarooq.vercel.app/  
+🔹 **[Portfolio](https://github.com/HarisFarooq23/Portfolio):**  - Live @ https://harisfarooq.vercel.app/  
 
 🔹 **[GitOracle](https://github.com/HarisFarooq23/Project_GitOracle):** - OpenSource Projects recommender System
 
