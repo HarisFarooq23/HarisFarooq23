@@ -28,7 +28,7 @@
 
 
 
-Currently Building/
+Currently Building
 
 🔹 **[GIKIChronicles](https://github.com/hamxa296/blog):** - Very first blogging app at the Campus
 
