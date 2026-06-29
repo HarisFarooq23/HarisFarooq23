@@ -24,9 +24,19 @@ An intelligent transport optimization project focused on solving real-world rout
 
 ---
 
-
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarisFarooq23&theme=react-dark&bg_color=0d1117&color=FF3366&line=0066FF&point=FFCC00&area=true&hide_border=true" width="100%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=HarisFarooq23&show_icons=true&title_color=00F5FF&text_color=E6EDF3&icon_color=7C3AED&border_color=00BFFF&bg_color=0D1117" height="200" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HarisFarooq23&layout=compact&title_color=00F5FF&text_color=E6EDF3&icon_color=7C3AED&border_color=00BFFF&bg_color=0D1117" height="200" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisFarooq23&theme=transparent&background=0D1117&border=00BFFF&stroke=00F5FF&ring=7C3AED&fire=00F5FF&currStreakLabel=7C3AED&sideLabels=E6EDF3&dates=9CA3AF" height="200" />
 </p>
 
 ## Connect With Me
