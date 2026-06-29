@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Haris%20Farooq&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:FF00FF,100:2c5364&height=250&section=header&text=Haris%20Farooq&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <!-- Typewriter -->
