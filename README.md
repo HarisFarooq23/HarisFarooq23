@@ -60,5 +60,5 @@ An intelligent transport optimization project focused on solving real-world rout
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:FF00FF,100:0f2027&height=120&section=footer"/>
 </p>
