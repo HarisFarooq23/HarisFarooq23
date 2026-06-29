@@ -15,18 +15,17 @@
 
 
 🔹 **[Portfolio](https://github.com/HarisFarooq23/Portfolio):**  - also Live @ https://harisfarooq.vercel.app/  
-🔹 **[GitOracle](https://github.com/HarisFarooq23/Project_GitOracle):** - OpenSource Projects recommender System
-🔹 **[KSX-Alpha](https://github.com/Sel68/kse-100-alpha):** - Karachi Stock Exchange Predicitve Framwork
-🔹 **[Spendr](https://github.com/HarisFarooq23/Spendr-):** - AI based Student Expense Tracking
-🔹 **[Transit Automation System](https://github.com/HarisFarooq23/GIKI-transit-automation-system):** - Djikstra Based Multi-Transit System
-🔹 **[Used Car Price Predictor](https://github.com/HarisFarooq23/Pakwheels-Market-Intelligence):** - Pakwheels Car Price predictive model 
+🔹 **[GitOracle](https://github.com/HarisFarooq23/Project_GitOracle):** - OpenSource Projects recommender System/
+🔹 **[KSX-Alpha](https://github.com/Sel68/kse-100-alpha):** - Karachi Stock Exchange Predicitve Framwork/
+🔹 **[Spendr](https://github.com/HarisFarooq23/Spendr-):** - AI based Student Expense Tracking/
+🔹 **[Transit Automation System](https://github.com/HarisFarooq23/GIKI-transit-automation-system):** - Djikstra Based Multi-Transit System/
+🔹 **[Used Car Price Predictor](https://github.com/HarisFarooq23/Pakwheels-Market-Intelligence):** - Pakwheels Car Price predictive model/
 
 
-Currently Building 
+Currently Building/
 
-🔹 **[GIKIChronicles](https://github.com/hamxa296/blog):** - Very first blogging app at the Campus
-🔹 **[Official HammerHead Website](https://github.com/HarisFarooq23/Hammerhead):** - First ever Team Hammerhead website 
-
+🔹 **[GIKIChronicles](https://github.com/hamxa296/blog):** - Very first blogging app at the Campus/
+🔹 **[Official HammerHead Website](https://github.com/HarisFarooq23/Hammerhead):** - First ever Team Hammerhead website/
 
 ---
 
