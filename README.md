@@ -51,7 +51,7 @@ Currently Building
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisFarooq23&theme=transparent&background=0D1117&border=FFD700&stroke=00F5FF&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=E6EDF3&dates=9CA3AF" height="200" />
 </p>
 
-## Connect With Me
+## More
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
@@ -63,6 +63,9 @@ Currently Building
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harisfarooq23&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
+</p>
 ---
 
 ## Profile Views
