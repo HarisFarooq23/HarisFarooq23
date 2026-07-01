@@ -50,12 +50,17 @@ Currently Building
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisFarooq23&theme=transparent&background=0D1117&border=FFD700&stroke=00F5FF&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=E6EDF3&dates=9CA3AF" height="200" />
 </p>
+
 ## Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/harisfarooq23/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  </a>
 </p>
 
 ---
