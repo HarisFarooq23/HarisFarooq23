@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C3AED,100:FF00FF,100:FF00FF:7C3AED,100:FF00FF,100:2c5364&height=250&section=header&text=Haris%20Farooq&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFFF00,100:FFD700&height=250&section=header&text=Haris%20Farooq&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=000000" />
 </p>
 
 <!-- Typewriter -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00FFD5&center=true&vCenter=true&width=700&lines=Pursuing+Artificial+Intelligence+%40+GIKI;Machine+Learning+Enthusiast;Building+Industry-Level+AI+Projects;Turning+Ideas+Into+Real-World+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=FFD700&center=true&vCenter=true&width=700&lines=Pursuing+Artificial+Intelligence+%40+GIKI;Machine+Learning+Enthusiast;Building+Industry-Level+AI+Projects;Turning+Ideas+Into+Real-World+Systems" />
 </p>
 
 ---
