@@ -66,13 +66,6 @@ Currently Building
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harisfarooq23&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
 </p>
----
-
-## Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harisfarooq23&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
-</p>
 
 
 ---
