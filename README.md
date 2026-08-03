@@ -16,7 +16,7 @@
 
 🔹 **[Portfolio](https://github.com/HarisFarooq23/Portfolio):**  - Live @ https://harisfarooq.vercel.app/ 
 
-🔹 **[Official HammerHead Website](https://github.com/HarisFarooq23/Hammerhead):** - First ever Team Hammerhead website - live @ https://hammerheadpak.com/
+🔹 **[Official HammerHead Website](https://github.com/HarisFarooq23/Hammerhead):** - First ever Team Hammerhead website - live @ [https://hammerheadpak.com/](https://hammerheadpak.com/)
 
 🔹 **[GitOracle](https://github.com/HarisFarooq23/Project_GitOracle):** - OpenSource Projects recommender System
 
