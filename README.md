@@ -26,7 +26,7 @@
 
 🔹 **[Transit Automation System](https://github.com/HarisFarooq23/GIKI-transit-automation-system):** - Djikstra Based Multi-Transit System
 
-🔹 **[Used Car Price Predictor](https://github.com/HarisFarooq23/Pakwheels-Market-Intelligence):** - Pakwheels Car Price predictive model
+🔹 **[Pakwheels Predictor Clone](https://github.com/HarisFarooq23/Pakwheels-Market-Intelligence):** - Pakwheels Car Price predictive model
 
 
 
