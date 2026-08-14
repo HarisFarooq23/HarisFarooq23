@@ -52,11 +52,11 @@ Currently Building
 ## More
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/harisfarooq23/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://harisfarooq.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" />
   </a>
 </p>
